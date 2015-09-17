@@ -1,0 +1,20 @@
+[svn]
+#root=D:/projects/casino/
+#root=http://svn-zt.digitalhouse.biz/java
+
+#casino_external_tpl = from/2/
+#casino_default_tpl = from/2/
+#casino_branch_path = to
+
+#casino_branch_path = /branches/DB/alters/tasks/casino/
+#casino_default_tpl= /branches/DB/sql_scripts/_Create_casino/
+#casino_external_tpl = /branches/DB/sql_scripts/_Create_casino/external_casino/
+
+
+#templates_path =
+
+
+#[bugzilla]
+#http_auth_username=bugtracking
+#http_auth_password=dh77qw07
+
